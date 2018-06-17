@@ -1,3 +1,5 @@
 In this project we will evaluate sufficient statistics such as mean and variance of univariate distributions and covariance and correlation coefficient of pairs of variables. We will then use these statistics to construct compact representations of joint probability distributions known as Bayesian networks. Then we will evaluate the goodness of these representations by using the concept of likelihood.
 
 This is just a test.
+
+This is second test.
